@@ -34,8 +34,7 @@ public class Main {
         System.out.println(test);
 
         boolean trueVar = true;
-        boolean falseVar = false;
-
+        boolean falseVar = false; // dskfjsdhfksdjfhsdkhsdkjhdsf
         char digit = '1';
         String digits = "123456";
 
