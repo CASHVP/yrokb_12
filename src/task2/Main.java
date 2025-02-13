@@ -17,7 +17,7 @@ public class Main {
         System.out.println("полных секунд с начала текущей минуты: "+ sec);
         System.out.println(hours + " " + min + " " + sec);
 
-        int calculation=4545435/3600;
+        int calculation=48/3600;
         System.out.println(calculation);
 
     }
